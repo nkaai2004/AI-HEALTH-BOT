@@ -30,6 +30,6 @@ Enjoy Your Chat! Feel free to explore EVE's capabilities and ask any health-rela
 Version: 1.0
 For any feedback or suggestions;
 
-maslawayne@gmail.com
+nkaaimaximillan@gmail.com
 
 Thank you for using EVE!
